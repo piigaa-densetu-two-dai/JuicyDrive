@@ -1,0 +1,13 @@
+ジューシードライブ部品リスト
+
+注意 RaspberryPiPico取付前にLED.jpgを参考にしてRaspberryPiPicoからLED又は抵抗を外して下さい。
+
+C1 電解100u～220u位
+D1(印字無し) LED (向きに注意！GND側(ランドが四角い方)がカソード(足が短い方))
+J1 USBタイプAコネクター
+Q1 DTC114E
+R1 220～470Ω (LEDに適した値のもの)
+R2 22Ω
+R3 22Ω
+R4 2.2kΩ
+U1 RaspberryPiPico (LEDか抵抗を外しておく)
