@@ -88,7 +88,7 @@ uf2conv.exeはhttps://github.com/piigaa-densetu-two-dai/MSXpi/tree/main/uf2conv�
 
 4. MSXに刺さっていない状態のジューシードライブをブートモードでPCに接続します。
 
-ジューシードライブ裏面の穴から見えるBOOTSELボタンを押しながらPCとUSB接続して下さい。
+ジューシードライブ裏面の穴から見えるBOOTSELボタンを押しながらPCとジューシードライブ(USBタイプCコネクターの方)をUSB接続して下さい。
 接続が成功するとドライブが認識されます。
 
 5. ジューシードライブに3で作成したfirmware.uf2ファイルを書き込みします。
@@ -98,7 +98,7 @@ uf2conv.exeはhttps://github.com/piigaa-densetu-two-dai/MSXpi/tree/main/uf2conv�
 
 6. 書込みが終わったらPCから外す。
 
-7. ジューシードライブのUSBコネクターにUSBフロッピーディスクドライブを取り付けて完了。
+7. ジューシードライブのUSBタイプAコネクターにUSBフロッピーディスクドライブを取り付けて完了。
 
 〇LEDについて
 
